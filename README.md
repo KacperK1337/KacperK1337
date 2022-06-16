@@ -7,9 +7,6 @@ Python :small_blue_diamond: Numerical analysis :small_blue_diamond: Raspberry Pi
 
 ---
 
-#### Apart from learning, I like to: 
-Listening to music :heavy_minus_sign: Going to the cinema :heavy_minus_sign: Meeting with my friends :heavy_minus_sign: Running :heavy_minus_sign: Playing games :heavy_minus_sign: Riding a bike
-
 ### Contact:
 * [E-mail](mailto:kacper.kozminski1337@proton.me)
 

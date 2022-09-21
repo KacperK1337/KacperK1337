@@ -1,4 +1,4 @@
-# Hello, I am Kacper 👋
+# Hello, I am Kacper
 
 ### My core competencies:
 Java :small_orange_diamond: Spring Boot :small_orange_diamond: REST API :small_orange_diamond: JavaFX :small_orange_diamond: SQL :small_orange_diamond: GIT :small_orange_diamond: Teamwork :small_orange_diamond: Problem solving :small_orange_diamond: English :small_orange_diamond: IntelliJIDEA

@@ -1,4 +1,4 @@
-# Hello, I am Kacper
+# Hi!
 I'm running this account as my portfolio, feel free to check out my repositories.
 
 ### My core competencies:
